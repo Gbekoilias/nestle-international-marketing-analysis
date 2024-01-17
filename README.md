@@ -63,4 +63,31 @@ Access Nestle's profile on Bloomberg [here](https://www.bloomberg.com/profile/co
 - Legal Framework: [Government Agency Name](insert_link)
 
 
-<h1 align = 'center' color = 'purple'> External Environmental Factors Impact </h1>
+<h1 align = 'center' color = 'purple'> Consumer Behavior Analysis </h1>
+
+### Consumer Behavior in Key Market 1
+- Investigate consumer behavior trends in the first key market.
+- Refer to market research reports analyzing buying patterns.
+- Examine surveys conducted by reputable research firms.
+- Explore academic studies on consumer behavior specific to this market.
+
+### Consumer Behavior in Key Market 2
+- Analyze consumer behavior patterns in the second key market.
+- Utilize market research reports highlighting purchasing habits.
+- Examine surveys conducted by reputable research organizations.
+- Refer to academic studies providing insights into consumer behavior.
+
+### Cultural Influences
+- Explore cultural factors shaping consumer preferences.
+- Refer to academic studies on the cultural impact on buying decisions.
+- Utilize market research reports on cultural trends affecting consumer behavior.
+
+### Economic Influences
+- Assess economic factors influencing purchasing behaviors.
+- Refer to market research reports analyzing economic influences.
+- Explore academic studies on the economic impact on consumer choices.
+
+#### Sources:
+- Market Research Reports: [Market Research Firm Name](insert_link)
+- Surveys: [Reputable Research Organization Name](insert_link)
+- Academic Studies: [Academic Journal Name](insert_link)
