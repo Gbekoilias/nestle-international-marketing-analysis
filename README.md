@@ -81,3 +81,30 @@ Access Nestle's profile on Bloomberg [here](https://www.bloomberg.com/profile/co
 - Market Research Reports: [Market Research Firm Name](insert_link)
 - Surveys: [Reputable Research Organization Name](insert_link)
 - Academic Studies: [Academic Journal Name](insert_link)
+
+
+
+<h1 align = 'center'> Competitor Analysis </h1>
+
+### Competitors in Key Market 1
+- Identify key competitors operating in the first market.
+- Analyze their market strategies, product offerings, and positioning.
+- Extract data from industry reports providing insights into market dynamics.
+- Examine financial statements for a comprehensive view of their performance.
+
+### Competitors in Key Market 2
+- Identify major competitors present in the second market.
+- Analyze their market strategies, product portfolios, and market positioning.
+- Extract data from industry reports for an understanding of market trends.
+- Scrutinize financial statements to gauge their financial health.
+
+### Market Share Comparison
+- Compare the market shares of Nestle and its competitors in both markets.
+- Utilize competitive analysis tools for detailed market share insights.
+- Refer to industry reports providing market share data for a comprehensive view.
+
+#### Sources:
+- Industry Reports: [Industry Report Provider Name](insert_link)
+- Financial Statements: [Competitor Company Name](insert_link)
+- Market Share Data: [Competitive Analysis Tool Name](insert_link)
+
