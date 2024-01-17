@@ -61,3 +61,23 @@ Access Nestle's profile on Bloomberg [here](https://www.bloomberg.com/profile/co
 - Technological Landscape: [Industry Publication Name](insert_link)
 - Political Stability: [Government Agency Name](insert_link)
 - Legal Framework: [Government Agency Name](insert_link)
+
+
+<h1 align = 'center' color = 'purple'> Consumer Behavior Analysis </h1>
+
+### Consumer Behavior in Key Market 1 (United States)
+- Investigate consumer behavior trends in the first key market.
+- Refer to market research reports analyzing buying patterns.
+- Examine surveys conducted by reputable research firms.
+- Explore academic studies on consumer behavior specific to this market.
+
+### Consumer Behavior in Key Market 2 (China)
+- Analyze consumer behavior patterns in the second key market.
+- Utilize market research reports highlighting purchasing habits.
+- Examine surveys conducted by reputable research organizations.
+- Refer to academic studies providing insights into consumer behavior.
+
+#### Sources:
+- Market Research Reports: [Market Research Firm Name](insert_link)
+- Surveys: [Reputable Research Organization Name](insert_link)
+- Academic Studies: [Academic Journal Name](insert_link)
