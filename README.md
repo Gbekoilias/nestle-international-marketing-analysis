@@ -61,3 +61,6 @@ Access Nestle's profile on Bloomberg [here](https://www.bloomberg.com/profile/co
 - Technological Landscape: [Industry Publication Name](insert_link)
 - Political Stability: [Government Agency Name](insert_link)
 - Legal Framework: [Government Agency Name](insert_link)
+
+
+<h1 align = 'center' color = 'purple'> External Environmental Factors Impact </h1>
