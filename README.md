@@ -77,16 +77,6 @@ Access Nestle's profile on Bloomberg [here](https://www.bloomberg.com/profile/co
 - Examine surveys conducted by reputable research organizations.
 - Refer to academic studies providing insights into consumer behavior.
 
-### Cultural Influences
-- Explore cultural factors shaping consumer preferences.
-- Refer to academic studies on the cultural impact on buying decisions.
-- Utilize market research reports on cultural trends affecting consumer behavior.
-
-### Economic Influences
-- Assess economic factors influencing purchasing behaviors.
-- Refer to market research reports analyzing economic influences.
-- Explore academic studies on the economic impact on consumer choices.
-
 #### Sources:
 - Market Research Reports: [Market Research Firm Name](insert_link)
 - Surveys: [Reputable Research Organization Name](insert_link)
