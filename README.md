@@ -164,3 +164,40 @@ Access Nestle's profile on Bloomberg [here](https://www.bloomberg.com/profile/co
 - Academic Articles: [Academic Journal Name](insert_link)
 - Company Statements: [Nestle Official Statements](insert_link)
 
+
+<h1 align = 'center'>  Marketing Strategies (4 P’s) Evaluation </h1>
+
+### Product Strategy in Key Market 1
+- Critically evaluate Nestle's product strategy in the first key market.
+- Refer to marketing literature discussing effective product strategies.
+- Utilize industry analyses providing insights into Nestle's product offerings.
+- Examine Nestle's official company reports on product-related strategies.
+
+### Product Strategy in Key Market 2
+- Assess Nestle's product strategy in the second key market.
+- Refer to marketing literature highlighting successful product strategies.
+- Analyze industry analyses focusing on Nestle's product portfolio.
+- Examine Nestle's official statements regarding its product strategies.
+
+### Price Strategy in Both Markets
+- Evaluate Nestle's pricing strategies in both key markets.
+- Refer to marketing literature discussing effective pricing strategies.
+- Utilize industry analyses providing insights into Nestle's pricing approach.
+- Examine Nestle's official company reports on pricing strategies.
+
+### Place (Distribution) Strategy
+- Analyze Nestle's distribution strategies in both markets.
+- Refer to marketing literature discussing effective distribution strategies.
+- Utilize industry analyses providing insights into Nestle's distribution network.
+- Examine Nestle's official statements regarding its distribution strategies.
+
+### Promotion Strategy
+- Critically assess Nestle's promotion strategies in both key markets.
+- Refer to marketing literature discussing effective promotional strategies.
+- Utilize industry analyses providing insights into Nestle's promotional activities.
+- Examine Nestle's official company reports on promotional strategies.
+
+#### Sources:
+- Marketing Literature: [Marketing Literature Source Name](insert_link)
+- Industry Analyses: [Industry Analysis Provider Name](insert_link)
+- Company Reports: [Nestle Official Reports](insert_link)
