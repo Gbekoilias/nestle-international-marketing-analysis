@@ -108,3 +108,28 @@ Access Nestle's profile on Bloomberg [here](https://www.bloomberg.com/profile/co
 - Financial Statements: [Competitor Company Name](insert_link)
 - Market Share Data: [Competitive Analysis Tool Name](insert_link)
 
+
+<h1 align = 'center'> Entry Strategy Evaluation </h1>
+
+### Entry Strategy in Key Market 1
+- Critically evaluate Nestle's entry strategy in the first key market.
+- Refer to relevant case studies providing insights into the entry approach.
+- Analyze official statements from Nestle regarding its entry into this market.
+- Consult industry analyses for perspectives on Nestle's entry strategy.
+
+### Entry Strategy in Key Market 2
+- Critically assess Nestle's entry strategy in the second key market.
+- Refer to case studies offering detailed insights into the entry methodology.
+- Examine official statements from Nestle outlining its entry strategy.
+- Utilize industry analyses for a comprehensive understanding of Nestle's approach.
+
+### Cross-Market Comparative Analysis
+- Compare and contrast Nestle's entry strategies in both markets.
+- Highlight similarities and differences in the approaches taken.
+- Utilize industry analyses for a broader perspective on multinational entry strategies.
+
+#### Sources:
+- Case Studies: [Case Study Source Name](insert_link)
+- Official Statements: [Nestle Official Statements](insert_link)
+- Industry Analyses: [Industry Analysis Provider Name](insert_link)
+
