@@ -133,3 +133,34 @@ Access Nestle's profile on Bloomberg [here](https://www.bloomberg.com/profile/co
 - Official Statements: [Nestle Official Statements](insert_link)
 - Industry Analyses: [Industry Analysis Provider Name](insert_link)
 
+<h1 align = 'center'> Segmentation, Targeting, and Positioning Analysis </h1>
+
+### Segmentation in Key Market 1
+- Analyze Nestle's segmentation approach in the first key market.
+- Utilize marketing reports detailing Nestle's target customer segments.
+- Refer to academic articles providing insights into effective segmentation strategies.
+- Examine official company statements on their segmentation strategy.
+
+### Segmentation in Key Market 2
+- Evaluate Nestle's segmentation strategy in the second key market.
+- Refer to marketing reports outlining Nestle's targeted customer segments.
+- Consult academic articles discussing segmentation practices in this market.
+- Analyze official statements from Nestle regarding segmentation.
+
+### Targeting in Both Markets
+- Explore Nestle's targeting strategies in both key markets.
+- Utilize marketing reports offering insights into Nestle's target audience.
+- Refer to academic articles discussing effective targeting practices.
+- Examine official statements highlighting Nestle's targeting approach.
+
+### Positioning Strategies
+- Analyze how Nestle positions its products in both markets.
+- Refer to marketing reports detailing Nestle's positioning strategies.
+- Utilize academic articles discussing effective product positioning.
+- Examine official statements on Nestle's product positioning.
+
+#### Sources:
+- Marketing Reports: [Marketing Report Provider Name](insert_link)
+- Academic Articles: [Academic Journal Name](insert_link)
+- Company Statements: [Nestle Official Statements](insert_link)
+
